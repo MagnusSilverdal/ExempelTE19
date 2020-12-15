@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 /**
  * This is a class
  * Created 2020-10-09
@@ -7,6 +9,8 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hej världen");
+        JOptionPane.showMessageDialog(null,"HelloWorld");
+
     }
 
 }
