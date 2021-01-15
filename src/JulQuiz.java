@@ -31,6 +31,7 @@ public class JulQuiz {
             moreAnswers.add(input.nextLine());
             moreCorrectAnswers.add(input.nextInt());
             input.nextLine();
+            System.out.println(moreQuestions.get(0));
         }
 
     }
