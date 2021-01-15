@@ -5,7 +5,7 @@ import java.util.Random;
  * Created 2021-01-15
  *
  * @author Magnus Silverdal
- */
+ */   
 public class HangMan {
     public static void main(String[] args) {
         String word = pickRandomWord();
